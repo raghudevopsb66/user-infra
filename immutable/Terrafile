@@ -1,0 +1,3 @@
+app:
+  source:  "https://github.com/raghudevopsb66/terraform-immutable-app.git"
+  version: "main"
