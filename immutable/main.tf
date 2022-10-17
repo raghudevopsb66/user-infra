@@ -8,5 +8,7 @@ module "user" {
   desired_capacity = var.desired_capacity
   max_size         = var.max_size
   min_size         = var.min_size
+  INSTANCE_TYPE    = var.INSTANCE_TYPE
+
 }
 
